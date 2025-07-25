@@ -3,7 +3,7 @@ Componentes customizados, inspirados no material (Angular), em Java 11 Swing
 
 # Exemplo de uso
 
-<pre> ```
+<pre> ```java
 package br.com.example;
 
 import br.com.shared.components.DialogCustom;
